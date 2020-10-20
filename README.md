@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Vue.js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto:stefanescu.dragos@gmail.com?subject=[Github]">via email ;)</a>
+- 📫 How to reach me: ... <a href="mailto:stefanescu.dragos@gmail.com">via email ;)</a>
 - 😄 Pronouns: ...
 -->
 <!-- - ⚡ Fun fact: ... -->
