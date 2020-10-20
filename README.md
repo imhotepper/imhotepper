@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 <!--
 ![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox)
 
+<h1 align='center'> Hi there! :wave:</h1>
+<p align='center'>
+I'm Dragos.
+</p>
+<p align='center'>For enquiries, reach out <a href="mailto:stefanescu.dragos@gmail.com?subject=[Github]">via email ;)</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" />
@@ -30,15 +39,6 @@ Here are some ideas to get you started:
 
 </div>
 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
-
-<h1 align='center'> Hi there! :wave:</h1>
-<p align='center'>
-I'm Dragos.
-</p>
-<p align='center'>For enquiries, reach out @ stefanescu.dragos@gmail.com or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
 
 
 <!--
