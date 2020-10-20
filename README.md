@@ -1,3 +1,4 @@
+<!-- 
 ### Hi there 👋
 
 
@@ -10,6 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:stefanescu.dragos@gmail.com?subject=[Github]">via email ;)</a>
 - 😄 Pronouns: ...
+-->
 <!-- - ⚡ Fun fact: ... -->
 
 ![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true)
