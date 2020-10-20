@@ -21,3 +21,20 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" />
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+<div id="container">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" /></div>
+
+Hi !
+
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
