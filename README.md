@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 -->
 <div id="container">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" /></div>
+
+</div>
 
 <!--
 Hi !
