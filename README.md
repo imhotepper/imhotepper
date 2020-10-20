@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
-I'm Dragos.
+I'm Dragos/Imhotepper.
 </p>
 <p align='center'>For contact, reach out @ <a href="mailto:stefanescu.dragos@gmail.com?subject=[Github]">via email</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
 
