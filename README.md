@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 <!-- - ⚡ Fun fact: ... -->
 
-![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true)
+![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox)
 
