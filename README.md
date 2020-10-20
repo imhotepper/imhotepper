@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox)
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" />
+
