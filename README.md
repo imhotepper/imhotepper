@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Vue.js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Dragos](mailto:stefanescu.dragos@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me: ... [Dragos](mailto:stefanescu.dragos@gmail.com?subject=[GitHub])
 - 😄 Pronouns: ...
 <!-- - ⚡ Fun fact: ... -->
 
