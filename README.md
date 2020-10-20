@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 <!--
 ![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox)
 
-<h1 align='center'> Hi there! :wave:</h1>
-<p align='center'>
-I'm Dragos.
-</p>
-<p align='center'>For enquiries, reach out <a href="mailto:stefanescu.dragos@gmail.com?subject=[Github]">via email ;)</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
-
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
@@ -33,6 +25,18 @@ I'm Dragos.
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 -->
+
+
+<h1 align='center'> Hi there! :wave:</h1>
+<p align='center'>
+I'm Dragos.
+</p>
+<p align='center'>For enquiries, reach out <a href="mailto:stefanescu.dragos@gmail.com?subject=[Github]">via email ;)</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay Calm @Home!</i></h1>
+
+
+
 <div id="container">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
