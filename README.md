@@ -1,3 +1,11 @@
+
+<!-- Sources:
+
+https://github.com/imhotepper/github-readme-stats/blob/master/readme.md
+
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+-->
+
 <!-- 
 ### Hi there 👋
 
@@ -31,7 +39,7 @@ Here are some ideas to get you started:
 <p align='center'>
 I'm Dragos/Imhotepper.
 </p>
-<p align='center'>For contact, reach out @ <a href="mailto:stefanescu.dragos@gmail.com">email</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
+<p align='center'>For contact, reach out via <a href="mailto:stefanescu.dragos@gmail.com">email</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay Calm @Home!</i></h1>
 
