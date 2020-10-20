@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 ![Imhotepper's github stats](https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imhoteper&repo=github-readme-stats)](https://github.com/imhotepper/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
