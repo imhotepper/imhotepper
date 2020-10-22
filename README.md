@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'> Hi there! :wave:</h1>
 
-<1--
+<!--
 <p align='center'>
 I'm Dragos/Imhotepper.
 </p>
