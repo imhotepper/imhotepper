@@ -43,7 +43,7 @@ I'm Dragos/Imhotepper.
 </p>
 <p align='center'>For contact, reach out via <a href="mailto:stefanescu.dragos@gmail.com">email</a> or over on <a href="https://twitter.com/imhotepp">Twitter</a>.</p>
 -->
-<h1 align='center'><i>Stay Calm & Keep Coding! :house: </i></h1>
+<h1 align='center'><i>Stay Calm & Keep Coding! @:house: </i></h1>
 
 
 
