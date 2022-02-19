@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=gruvbox" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&theme=gruvbox" />
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -48,7 +48,7 @@ I'm Dragos/Imhotepper.
 
 
 <div id="container">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&count_private=true&theme=" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&count_private=true&theme=" />-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=" />
 
 </div>
