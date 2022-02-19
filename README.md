@@ -47,7 +47,7 @@ I'm Dragos/Imhotepper.
 
 
 
-<div id="container">
+<div id="container" align='center'>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&count_private=true&theme=" />-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=" />
 
