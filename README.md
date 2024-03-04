@@ -47,14 +47,14 @@ I'm Dragos/Imhotepper.
 <h1 align='center'><i>Stay Calm & Keep Coding @:house: !! </i></h1>
 
 
-<!--
+
 <div  id="container" align='center'>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhotepper&count_private=true&theme=" />-->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=vue" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepper&count_private=true&show_icons=true&theme=vue" />-->
 
 </div>
 
--->
+
 
 <!--
 Hi !
